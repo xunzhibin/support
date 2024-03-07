@@ -1,8 +1,8 @@
 {
-    "name": "xunzhibin/support",
+    "name": "xzb/support",
     "autoload": {
         "psr-4": {
-            "Xunzhibin\\Support\\": "src/"
+            "xzb\\Support\\": "src/"
         }
     },
     "authors": [
