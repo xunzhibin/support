@@ -1,0 +1,15 @@
+{
+    "name": "xunzhibin/support",
+    "autoload": {
+        "psr-4": {
+            "Xunzhibin\\Support\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xunzhibin",
+            "email": "xunzhibin@jnexpert.com"
+        }
+    ],
+    "require": {}
+}
