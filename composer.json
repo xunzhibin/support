@@ -2,7 +2,7 @@
     "name": "xzb/support",
     "autoload": {
         "psr-4": {
-            "xzb\\Support\\": "src/"
+            "Xzb\\Support\\": "src/"
         }
     },
     "authors": [
